@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://YJZ589112yyds.github.io</id>
+    <title>Gridea</title>
+    <updated>2022-08-22T03:07:06.322Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://YJZ589112yyds.github.io"/>
+    <link rel="self" href="https://YJZ589112yyds.github.io/atom.xml"/>
+    <subtitle>&lt;img src=&quot;https://v2.jinrishici.com/one.svg?font-size=35&amp;spacing=3&amp;color=DodgerBlue&quot;&gt;</subtitle>
+    <logo>https://YJZ589112yyds.github.io/images/avatar.png</logo>
+    <icon>https://YJZ589112yyds.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[To friends from far away]]></title>
+        <id>https://YJZ589112yyds.github.io/post/to-friends-from-far-away/</id>
+        <link href="https://YJZ589112yyds.github.io/post/to-friends-from-far-away/">
+        </link>
+        <updated>2022-08-22T02:53:13.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="~-当你看到这个blog时说明主人已咕-~"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mtext> </mtext><mi mathvariant="normal">当</mi><mi mathvariant="normal">你</mi><mi mathvariant="normal">看</mi><mi mathvariant="normal">到</mi><mi mathvariant="normal">这</mi><mi mathvariant="normal">个</mi><mi>b</mi><mi>l</mi><mi>o</mi><mi>g</mi><mi mathvariant="normal">时</mi><mi mathvariant="normal">，</mi><mi mathvariant="normal">说</mi><mi mathvariant="normal">明</mi><mi mathvariant="normal">主</mi><mi mathvariant="normal">人</mi><mi mathvariant="normal">已</mi><mi mathvariant="normal">咕</mi><mtext> </mtext></mrow><annotation encoding="application/x-tex">~ 当你看到这个blog时，说明主人已咕 ~</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mspace nobreak"> </span><span class="mord cjk_fallback">当</span><span class="mord cjk_fallback">你</span><span class="mord cjk_fallback">看</span><span class="mord cjk_fallback">到</span><span class="mord cjk_fallback">这</span><span class="mord cjk_fallback">个</span><span class="mord mathdefault">b</span><span class="mord mathdefault" style="margin-right:0.01968em;">l</span><span class="mord mathdefault">o</span><span class="mord mathdefault" style="margin-right:0.03588em;">g</span><span class="mord cjk_fallback">时</span><span class="mord cjk_fallback">，</span><span class="mord cjk_fallback">说</span><span class="mord cjk_fallback">明</span><span class="mord cjk_fallback">主</span><span class="mord cjk_fallback">人</span><span class="mord cjk_fallback">已</span><span class="mord cjk_fallback">咕</span><span class="mspace nobreak"> </span></span></span></span></h2>
+<h2 id="本人只是懂点chtmlcss的皮毛却幸运被迫入坑github">本人只是懂点C++,html,css的皮毛，却幸运（被迫）入坑github</h2>
+<h3 id="好在天无绝人之路我意外发现了大量神奇的模板宝藏">好在天无绝人之路，我意外发现了大量神奇的模板（宝藏）</h3>
+<h3 id="so推一波本站来源回馈">so,推一波本站来源（回馈）</h3>
+<p><a href="https://github.com/getgridea/gridea">Github</a></p>
+<p><a href="https://gridea.dev/">Gridea 主页</a></p>
+<p><a href="https://fehey.com/">示例网站</a></p>
+]]></content>
+    </entry>
+</feed>
